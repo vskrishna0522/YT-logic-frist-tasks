@@ -1,0 +1,11 @@
+arr = [5,8,10,7,9,11]
+arr.splice( 3,4,5,17,19,111)
+console.log(arr)
+arr.unshift(100)
+console.log(arr)
+arr.splice(111,0,200)
+console.log(arr)
+arr.splice(200,0,1000)
+console.log(arr)
+arr.splice(5,0,0)
+console.log(arr)
