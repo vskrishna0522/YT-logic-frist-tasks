@@ -1,0 +1,10 @@
+h1{
+    background: linear-gradient( to right, skyblue, lightgreen);
+    background-repeat: no-repeat;
+    background-color: fixed; 
+}
+body{
+    background: linear-gradient( to left , skyblue, white);
+    background-repeat: no-repeat;
+    background-color: fixed; 
+}

@@ -1,0 +1,16 @@
+body{
+    background-color: grey;
+}
+p{
+    border-style: outset;
+    border-style: groove;
+    border-width: 10px;
+    border-color: gold;
+    font-size: large;
+}
+.odd{
+    color: red;
+}
+.even{
+    font-style: italic;
+}
